@@ -11,6 +11,6 @@ This script assists you in exporting all email addresses with which you have com
    - The script is currently defined for 2 files, but you can repeat the process if you have more folders.
 3. Run the script using the command `python3 ./outlook.py`. It will scan the entire file and provide you with a list of emails.
 
-Congratulations, you have successfully exported all emails that you have sent or received.
+Congratulations, you have successfully exported all email addreses that you have sent or received.
 
 Good Luck, Have Fun! 
