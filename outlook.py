@@ -18,4 +18,4 @@ all_emails = set(emails1 + emails2)
 for email in all_emails:
     print(email)
 
-print(f"\nToplam {len(all_emails)} farklı e-posta adresi bulundu.")
+print(f"\nTotal of {len(all_emails)} different email have been found.")
